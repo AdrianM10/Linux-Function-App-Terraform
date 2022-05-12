@@ -1,1 +1,1 @@
-Terraform template to create Linux Function App with App Slot and storage account.
+Terraform template to create a Linux Function App with an App Slot and storage account.
